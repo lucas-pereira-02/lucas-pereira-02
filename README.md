@@ -1,4 +1,4 @@
 - 👋 Olá! eu sou Lucas...
 - 👀 Sou curioso e gosto de resolver problemas;
 - 🌱 Estudo programação através do COM DOMÍNIODIGITAL4.0 que é uma formação para tornar jovens em desenvolvedores Junior.
-- 📫 E-mail: Lucas Nascimento Pereira
+- 📫 E-mail: lucasnp0099@gmail.com
