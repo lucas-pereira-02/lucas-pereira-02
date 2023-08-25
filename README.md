@@ -1,4 +1,4 @@
 - 👋 Olá! eu sou Lucas, tenho 23 anos...
 - 👀 Sou curioso e gosto de resolver problemas através da tecnologia
-- 🌱 Estudo programação através do Com.Domínio Digital 4.0 que é uma formação para tornar jovens em desenvolvedores Junior.
+- 🌱 Graduando Análise e Desenvolvimento de Sistemas
 - 📫 E-mail: lucasnp0099@gmail.com
